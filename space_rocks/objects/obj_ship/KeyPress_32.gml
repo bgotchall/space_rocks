@@ -9,6 +9,13 @@
 /// @DnDSaveInfo : "objectid" "3d5f3dc5-2f41-4907-b46a-207242a517e7"
 var newBullet = instance_create_layer(x + 0, y + 0, "Instances", obj_bullet);
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 1B7F1714
+/// @DnDArgument : "soundid" "snd_zap"
+/// @DnDSaveInfo : "soundid" "f2e9cc5b-ec98-4338-88e4-af112e5f0d06"
+audio_play_sound(snd_zap, 0, 0);
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 6C8D30EC

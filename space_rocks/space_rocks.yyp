@@ -2,7 +2,7 @@
     "id": "82c8cbef-6b50-467f-a8ed-6164e23a8096",
     "modelName": "GMProject",
     "mvc": "1.0",
-    "IsDnDProject": true,
+    "IsDnDProject": false,
     "configs": [
         
     ],
@@ -215,6 +215,22 @@
             }
         },
         {
+            "Key": "a16cdb6f-2578-4c24-a139-a4008682a929",
+            "Value": {
+                "id": "a1bcf8db-09c1-4ac5-9644-bbb3153d24b3",
+                "resourcePath": "sounds\\snd_lose\\snd_lose.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a19c5200-32a4-4e4e-a4e0-633d9796645f",
+            "Value": {
+                "id": "bf44eb08-6a57-4a17-9b53-60b37d577ea9",
+                "resourcePath": "sounds\\msc_song\\msc_song.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "ad786dfb-1538-4d13-b693-3458cd782672",
             "Value": {
                 "id": "9242ca6e-d229-45f7-bec5-3472d1623ace",
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "f2e9cc5b-ec98-4338-88e4-af112e5f0d06",
+            "Value": {
+                "id": "7df7a999-ae8d-4375-818a-1e0aa359fdaa",
+                "resourcePath": "sounds\\snd_zap\\snd_zap.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "f47bc0fb-d9d5-4a2d-928f-df2d33699418",
             "Value": {
                 "id": "b43aea7c-088a-4416-8002-a93429faea41",
@@ -287,11 +311,27 @@
             }
         },
         {
+            "Key": "f4d94cb7-53c0-489e-9902-23ae527612c4",
+            "Value": {
+                "id": "bd2d9e55-ed16-40a7-98ca-7d0e3cdd69fe",
+                "resourcePath": "sounds\\snd_die\\snd_die.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "fc228a16-0677-4173-a3b7-5c16e78e495c",
             "Value": {
                 "id": "07aa68cf-1313-4a0a-a9f7-5a7b3e279f06",
                 "resourcePath": "objects\\obj_debris\\obj_debris.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fdf56c81-556f-48f4-8442-f0ba8104f2a9",
+            "Value": {
+                "id": "7a3894cf-af15-4a8e-b1a5-2f7a3cbd9fc9",
+                "resourcePath": "sounds\\snd_win\\snd_win.yy",
+                "resourceType": "GMSound"
             }
         },
         {
