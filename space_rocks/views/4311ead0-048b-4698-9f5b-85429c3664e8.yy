@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "id": "4311ead0-048b-4698-9f5b-85429c3664e8",
     "modelName": "GMFolder",
@@ -14,4 +15,18 @@
     "folderName": "sounds",
     "isDefaultView": false,
     "localisedFolderName": "ResourceTree_Sounds"
+=======
+{
+    "id": "4311ead0-048b-4698-9f5b-85429c3664e8",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "4311ead0-048b-4698-9f5b-85429c3664e8",
+    "children": [
+        
+    ],
+    "filterType": "GMSound",
+    "folderName": "sounds",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Sounds"
+>>>>>>> 3561302ad522fdf4b99035e4dd6a309321835287
 }
